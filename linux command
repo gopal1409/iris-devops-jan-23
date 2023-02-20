@@ -20,3 +20,13 @@ sudo -i
    20  cd ..
    21  rmdir test
    22  rm -rf test
+####cat in linux
+25  cat > test1.txt
+enter some content
+then press Ctrl + d
+   26  cat test1.txt
+   27  cat > test1.txt
+   28  cat test1.txt
+   ####to append on the second line you need to use two greater than symbol
+   29  cat >> test1.txt
+   30  cat test1.txt
