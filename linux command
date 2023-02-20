@@ -1,2 +1,22 @@
 ###to become a root user 
 sudo -i
+####linux command
+3  pwd
+    4  ls
+    5  ls -l
+    6  ls -lah
+    7  mkdir test
+    8  ls -la
+    9  touch testfile
+   10  cp testfile /tmp
+   11  touch newfile
+   12  mv newfile /tmp
+   13  ls
+   14  rmdir test
+   15  mkdir test
+   16  cd test/
+   18  mkdir new
+   19  touch newfile
+   20  cd ..
+   21  rmdir test
+   22  rm -rf test
